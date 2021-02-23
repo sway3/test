@@ -1,4 +1,4 @@
  applications:
- - name: hi.php
+ - name: hi
    random-route: true
    memory: 128M
