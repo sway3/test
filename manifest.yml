@@ -1,4 +1,4 @@
  applications:
- - name: GetStartedPHP
+ - name: hi.php
    random-route: true
    memory: 128M
